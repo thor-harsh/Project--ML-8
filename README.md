@@ -11,4 +11,4 @@ The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametri
 
 </table>
 
-**So what are you waiting for..? Jump to the code to get started. As usual for any doubt see you in pull request section 😁😂.
+**So what are you waiting for..? Jump to the code to get started. As usual for any doubt see you in pull request section 😁😂. Thanks!
